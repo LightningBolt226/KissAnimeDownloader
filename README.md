@@ -11,4 +11,4 @@ Firefox: Ctrl+Shift+K (Windows/Linux) or Cmd+Opt+J(Mac)
 3. Open KissAnimeDownloader.js and Copy-Paste the contents into console and enter.
 <img src="https://cloud.githubusercontent.com/assets/24856195/21578850/2ac62808-cfcc-11e6-8bfb-434b59453bc9.PNG">
 4. The program will run. Enter the relevant information and the program will do the rest.
-<img src="https://gyazo.com/aaf369f6b54b5dbf2dfa85bd5c508e1b">
+<img src="https://cloud.githubusercontent.com/assets/24856195/21578883/4db1f864-cfcd-11e6-87d4-3e1f60398a4e.png">
