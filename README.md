@@ -1,5 +1,5 @@
 # KissAnimeDownloader
-Tired of downloading each episode in a season individually? With this, simply copy paste it into your browser's console and it will generate all the download links for each episode in once neat page!
+Tired of downloading each episode in a season individually? With this, simply copy paste it into your browser's console and it will generate all the download links for each episode in one neat page!
 
 # Installation
 1. Go to the main page of the Anime
